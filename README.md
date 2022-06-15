@@ -8,7 +8,7 @@
 
   
   <!-- 백준 티어 -->
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jina0120)](https://solved.ac/jina0120)
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jina0120"/>
   <!-- 백준 잔디밭 -->
   <img src="http://mazandi.herokuapp.com/api?handle=jina0120&theme=warm"/>
   
